@@ -1,4 +1,7 @@
 {
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
   "comments": [
     {
   "kaiguan":1,
@@ -7,5 +10,6 @@
   "code":"JR",
   "path":"http://ip-api.com/json/"
 }
-  ]
+  ],
+  "profile": { "name": "typicode" }
 }
