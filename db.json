@@ -1,6 +1,7 @@
 {
   "posts": [
-    { "id": 0, "title": "json-server", "author": "typicode" }
+    { "id": 0, "title": "json-server", "author": "typicode" },
+        { "id": 1, "title": "json-server", "author": "authorCode" }
   ],
   "comments": [
     {
@@ -11,5 +12,5 @@
   "path":"http://ip-api.com/json/"
 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "huilitong" }
 }
